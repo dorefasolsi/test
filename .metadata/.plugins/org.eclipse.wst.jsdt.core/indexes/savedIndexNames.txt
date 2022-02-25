@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\MIRA\Documents\GitHub\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+782279941.index
+245533569.index
+3922819441.index
+145081619.index
+2840764478.index
