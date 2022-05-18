@@ -10,8 +10,8 @@
 |------|---|
 |FRONTEND|HTML5, JavaScript, CSS, jQuery|
 |BACKEND|Java(JDK 1.8), Servlet, Spring, Mybatis|
-|OS|Windows10|
 |LIBRARY&API|Spring Security, MailSender, FileUpload, Lombok, 다음 지도 API|
 |SERVER|Tomcat(v8.5)|
 |DATABASE|Oracle(11g)|
 |IDE|STS, VisualStudio|
+|OS|Windows10|
