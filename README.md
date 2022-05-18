@@ -8,10 +8,26 @@
 #### 사용 기술 및 개발환경
 |분야|기술|
 |------|---|
-|FRONTEND|HTML5, JavaScript, CSS, jQuery|
-|BACKEND|Java(JDK 1.8), Servlet, Spring, Mybatis|
+|FRONT-END|HTML5, JavaScript, CSS, jQuery|
+|BACK-END|Java(JDK 1.8), Servlet, Spring, Mybatis|
 |LIBRARY&API|Spring Security, MailSender, FileUpload, Lombok, 다음 지도 API|
 |SERVER|Tomcat(v8.5)|
 |DATABASE|Oracle(11g)|
 |IDE|STS, VisualStudio|
 |OS|Windows10|
+
+
+### 프로젝트 구현 기능
+* 회원가입
+  * AJAX를 이용한 유효성 검증 
+  * MailSender를 이용한 이메일 인증
+  * Spring Security를 이용한 비밀번호 암호화
+* 로그인
+  * 
+* 공지사항 게시판
+  * 관리자 등급만 게시글 작성 가능한 게시판
+  * 파일 첨부 기능  
+* 메인페이지
+  * 일정 게시판에서 등록된 체크리스트 완료하기
+  * 공지사항, 나의 프로젝트 조회
+* HTML, CSS 전반
