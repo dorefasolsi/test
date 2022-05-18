@@ -6,7 +6,7 @@
 
 -----------------
 #### 사용 기술 및 개발환경
-|분야||기술|
+|분야|기술|
 |------|---|
 |FRONTEND|HTML5, JavaScript, CSS, jQuery|
 |BACKEND|Java(JDK 1.8), Servlet, Spring, Mybatis|
